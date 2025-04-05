@@ -1,4 +1,9 @@
 # astr154
 Learn Git and GitHub in UCSD's ASTR 154 course
 
-## change made by Toby H
+Hi I'm Toby Heller
+Sorry I was not able to go to lab section today!
+
+Hello I'm Steve Young
+
+hello my name is Federico
